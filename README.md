@@ -1,18 +1,18 @@
-My Portfolio
-This is my personal portfolio website, designed to showcase my skills, projects, education, and experience as a developer and student. Built using HTML, CSS, and JavaScript, the site features a clean, responsive interface and includes sections about me, my technical skills, education timeline, project highlights, open-source contributions, and contact information.
+Portfolio Website Project
+Welcome to my portfolio website! This project is a showcase of my journey, skills, and the work I’ve done so far as a student and aspiring developer. Here, you’ll find information about me, my projects, and ways to get in touch.
 
-Features:
+🚀 About Me
+Hi, I’m Prerna Kumari from Hazaribag, Jharkhand.
+I am currently pursuing a Bachelor’s in Information Technology at Kalinga Institute of Information Technology and a Foundation Level course in Data Science & Applications from IIT Madras.
+I’m passionate about tech, open source, and building projects that make a difference.
 
-About Me: Brief introduction and background
+🖥️ Project Features
+Modern, clean, and responsive design
 
-Skills: A summary of my technical abilities
+About Me: My background, education, and stats
 
-Education: Timeline of my academic journey
+Portfolio: A gallery of my projects
 
-Projects: Highlights of my completed and ongoing projects
+Contact Section: Easy ways to reach out
 
-Open Source: Details of my contributions to open-source initiatives
-
-Contact: Ways to get in touch for collaboration or freelance work
-
-The portfolio is continuously updated as I learn new technologies and complete new projects. Feel free to explore the code
+Interactive Elements: Including a playable Snakes & Ladders game
